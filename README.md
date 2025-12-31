@@ -22,50 +22,51 @@ Below is a preview of the real-time chat interface showing live messaging, user 
 
 ## 🛠️ Tech Stack
 **Frontend**
-- HTML  
-- CSS  
-- JavaScript  
+    
+    - HTML  
+    - CSS  
+    - JavaScript  
 
 **Backend**
-- Node.js  
-- Express.js  
-- Socket.IO  
+        
+    - Node.js  
+    - Express.js  
+    - Socket.IO  
 
 ## ⚙️ Project Setup
 
 Follow the steps below to run the project locally:
 
 1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-Install dependencies
 
-npm install
+       git clone <repository-url>
+2. Install dependencies
 
-Start the server
+       npm install
 
-node server.js
+3. Start the server
 
-Open in browser
+       node server.js
 
-http://localhost:4000
+4. Open in browser
+
+       http://localhost:4000
 
 
 📂 Folder Structure
 
-├── public
+      ├── public
 
-│   ├── index.html
-│   ├── style.css
-│   └── client.js
-│
-├──
-│
-├── server.js
-├── package.json
+      │   ├── index.html
+      │   ├── style.css
+      │   └── client.js
+      │
+      ├──
+      │
+      ├── server.js
+      ├── package.json
 
 🚀 Future Enhancements
-
 
 🔐 User authentication
 
