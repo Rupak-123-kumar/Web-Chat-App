@@ -39,7 +39,7 @@ Follow the steps below to run the project locally:
 
 1. **Clone the repository**
 
-       git clone <repository-url>
+       git clone <(https://github.com/Rupak-123-kumar/Web-Chat-App)>
 2. Install dependencies
 
        npm install
