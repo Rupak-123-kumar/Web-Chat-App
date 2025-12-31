@@ -54,6 +54,7 @@ http://localhost:4000
 📂 Folder Structure
 
 ├── public
+
 │   ├── index.html
 │   ├── style.css
 │   └── client.js
@@ -64,6 +65,8 @@ http://localhost:4000
 ├── package.json
 
 🚀 Future Enhancements
+
+
 🔐 User authentication
 
 💾 Chat history storage
