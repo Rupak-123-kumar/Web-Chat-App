@@ -41,14 +41,16 @@ Follow the steps below to run the project locally:
 Install dependencies
 
 npm install
+
 Start the server
 
-
 node server.js
+
 Open in browser
 
-
 http://localhost:4000
+
+
 📂 Folder Structure
 
 ├── public
@@ -56,11 +58,11 @@ http://localhost:4000
 │   ├── style.css
 │   └── client.js
 │
-├── screenshots
-│   └── chat-preview.png
+├──
 │
 ├── server.js
 ├── package.json
+
 🚀 Future Enhancements
 🔐 User authentication
 
